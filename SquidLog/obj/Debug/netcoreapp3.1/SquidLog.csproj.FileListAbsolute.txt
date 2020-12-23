@@ -1,0 +1,13 @@
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\bin\Debug\netcoreapp3.1\SquidLog.exe
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\bin\Debug\netcoreapp3.1\SquidLog.deps.json
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\bin\Debug\netcoreapp3.1\SquidLog.runtimeconfig.json
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\bin\Debug\netcoreapp3.1\SquidLog.runtimeconfig.dev.json
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\bin\Debug\netcoreapp3.1\SquidLog.dll
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\bin\Debug\netcoreapp3.1\SquidLog.pdb
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.csprojAssemblyReference.cache
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.AssemblyInfoInputs.cache
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.AssemblyInfo.cs
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.dll
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.pdb
+C:\Users\beatriz.grande\Desktop\SquidLog\SquidLog\obj\Debug\netcoreapp3.1\SquidLog.genruntimeconfig.cache
